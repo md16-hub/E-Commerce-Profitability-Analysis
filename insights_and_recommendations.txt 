@@ -1,0 +1,46 @@
+BRIGHTCART PROFITABILITY ANALYSIS
+Data Insights and Recommendations
+
+CATEGORY PROFITABILITY
+
+Electronics is the best performing category. It brings in the most profit ($13,973) and the best margin (31.1%). It's not just the biggest category, it's also the most efficient one.
+
+Books is the weakest. Margin is only 11.9%, less than half of Electronics, even though revenue ($22,413) is decent. Since the problem shows up in margin and not in sales volume, this is likely a cost or pricing issue, not a demand issue. Beauty is the next weakest at 17.4% and worth checking for the same reason.
+
+Recommendation: pull Books and Beauty against the product catalog and check unit cost and shipping cost relative to selling price. If margins are getting squeezed at the sourcing level, no amount of marketing will fix that.
+
+CHANNEL ANALYSIS
+
+This is the biggest finding in the whole project. Marketplace looks fine at first glance, average order value is $137.55, right in line with every other channel. But once you apply its 13.8% platform fee, profit per order actually goes negative, at -$3.58. Every order coming through Marketplace right now is losing money.
+
+Social Commerce isn't negative yet but it's close. It has a 7.4% platform fee plus the highest return rate of any channel at 9.1%. Average profit is only $7.24 per order.
+
+Mobile App ($36.32) and Website ($31.60) are the real profit drivers. Both have zero platform fee and similar order values, so they keep almost all of what they sell.
+
+Recommendation: renegotiate the Marketplace fee or stop pushing more spend into that channel until the economics change. Right now growth on Marketplace makes the profit problem worse, not better. Shift acquisition budget toward Website and Mobile App where it's actually profitable.
+
+RETURNS
+
+Returns cost BrightCart $20,582 over the analysis period, about 7.4% of gross revenue. That's a real number, not a rounding error.
+
+By category, Electronics loses the most to returns ($4,078), even though it's also the most profitable category overall. By channel, Website loses the most ($9,384), just because it has the highest order volume.
+
+Recommendation: returns should be tracked in the same monthly report as revenue and profit, not looked at separately. A 7.4% leak is big enough to move the needle on margin by itself.
+
+MARKETING ROI
+
+No platform is technically losing money, every one of them returns more than it costs. But the range is wide. Email Marketing sits at the bottom with a 5.4x ROAS and $26.01 cost per acquisition, five to six times more expensive than the rest. TikTok Ads and Influencer are the strongest, both above 23x ROAS and under $5 CPA.
+
+Recommendation: this isn't really a "which platform is bad" question, it's a "which platform is inefficient" question. Email Marketing should be reviewed for targeting or list fatigue before assuming it needs to be cut outright.
+
+WHERE TO CUT 20% OF THE MARKETING BUDGET
+
+Instead of just cutting the worst platform on average, I ranked every platform-month combination by ROAS and pulled the weakest ones until they added up to 20% of total spend ($104,532 out of $503,506).
+
+The answer is not what you'd expect from the averages alone. Facebook Ads has the most flagged spend ($36,589 across 7 months), even though Email Marketing has the worst average ROAS. That's because Facebook Ads spends a lot more overall, so its weak months carry more dollars. Email Marketing has more months flagged (15) but less total spend at risk ($16,927), because its budget is smaller to begin with.
+
+Recommendation: cut the specific flagged months, not a flat 20% off every platform. That way a platform having one or two rough months isn't punished the same as a platform that's weak all year. Move the freed-up budget toward TikTok Ads, which has the best return in the whole mix.
+
+BOTTOM LINE FOR THE CEO
+
+Top-line revenue growing while margins shrink is exactly what happens when a channel or category problem is hiding under good-looking sales numbers. In this case it's Marketplace. It brings in normal-looking revenue but is actually losing money per order once fees are counted. Fix that first, it's the single biggest lever here. After that, clean up Books and Beauty at the cost level, get returns onto the regular reporting cadence, and reallocate marketing spend toward the platforms already proven to work.
